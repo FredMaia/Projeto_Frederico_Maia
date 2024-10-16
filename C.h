@@ -17,6 +17,10 @@ public:
         cout << "Método MC2" << endl;
     }
 
+    void MC3() {
+        cout << "Método MC3" << endl;
+    }
+
     string getC1() {
         return C1;
     }
