@@ -42,7 +42,7 @@ public:
         cout << "Método MB2" << endl;
     }
 
-    void MB2()
+    void MB3()
     {
         cout << "Método MB3" << endl;
     }
