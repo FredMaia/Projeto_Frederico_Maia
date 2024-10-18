@@ -42,4 +42,9 @@ public:
     {
         cout << "Método MD2" << endl;
     }
+
+    void MD3()
+    {
+        cout << "Método MD3" << endl;
+    }
 };
