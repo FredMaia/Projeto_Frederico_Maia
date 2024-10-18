@@ -33,18 +33,13 @@ public:
     }
 
     // Métodos
-    void MB1()
+    void MD1()
     {
-        cout << "Método MB1" << endl;
+        cout << "Método MD1" << endl;
     }
 
-    void MB2()
+    void MD2()
     {
-        cout << "Método MB2" << endl;
-    }
-
-    void MB2()
-    {
-        cout << "Método MB3" << endl;
+        cout << "Método MD2" << endl;
     }
 };
