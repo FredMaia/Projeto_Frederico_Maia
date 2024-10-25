@@ -23,7 +23,7 @@ class A {
             return a+b;
         }
 
-        // Setters
+        // Setters 
         void setA1(int a1)
         {
             A1 = a1;
